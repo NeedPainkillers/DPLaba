@@ -1,0 +1,11 @@
+C:\Users\apcxo\source\repos\RusakovLaba\obj\Debug\netcoreapp3.0\RusakovLaba.csprojAssemblyReference.cache
+C:\Users\apcxo\source\repos\RusakovLaba\obj\Debug\netcoreapp3.0\RusakovLaba.AssemblyInfoInputs.cache
+C:\Users\apcxo\source\repos\RusakovLaba\obj\Debug\netcoreapp3.0\RusakovLaba.AssemblyInfo.cs
+C:\Users\apcxo\source\repos\RusakovLaba\bin\Debug\netcoreapp3.0\RusakovLaba.exe
+C:\Users\apcxo\source\repos\RusakovLaba\bin\Debug\netcoreapp3.0\RusakovLaba.deps.json
+C:\Users\apcxo\source\repos\RusakovLaba\bin\Debug\netcoreapp3.0\RusakovLaba.runtimeconfig.json
+C:\Users\apcxo\source\repos\RusakovLaba\bin\Debug\netcoreapp3.0\RusakovLaba.runtimeconfig.dev.json
+C:\Users\apcxo\source\repos\RusakovLaba\bin\Debug\netcoreapp3.0\RusakovLaba.dll
+C:\Users\apcxo\source\repos\RusakovLaba\bin\Debug\netcoreapp3.0\RusakovLaba.pdb
+C:\Users\apcxo\source\repos\RusakovLaba\obj\Debug\netcoreapp3.0\RusakovLaba.dll
+C:\Users\apcxo\source\repos\RusakovLaba\obj\Debug\netcoreapp3.0\RusakovLaba.pdb
